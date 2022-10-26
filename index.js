@@ -14,27 +14,23 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
-//get tutorial by category id
+//get category by id
 app.get("/category/:categoryId", (req, res) => {
   const categoryId = parseInt(req.params.categoryId);
-  const tutorial =
-    tutorials.filter((tutorial) => tutorial.categoryId === categoryId) || {};
-  if (categoryId === 1) {
-    //will get all tutorial if category id is 1
-    res.send(tutorials);
-  } else {
-    // if category id is not 1 then it will show tutorial by query
-    res.send(tutorial);
-  }
+  const category =
+    categories.find((category) => category.categoryId === categoryId) || {};
+  res.send(category);
 });
-//get full details by tutorialId
-app.get("/tutorial/:tutorialId", (req, res) => {
-  const tutorialId = parseInt(req.params.tutorialId);
-  const fullTutorial =
-    tutorials.find(
-      (singleTutorial) => singleTutorial.tutorialId === tutorialId
-    ) || {};
-  res.send(fullTutorial);
+//get all tutorials
+app.get("/tutorials", (req, res) => {
+  res.send(tutorials);
+});
+//get tutorial by id
+app.get("/tutorial/:categoryId", (req, res) => {
+  const categoryId = parseInt(req.params.categoryId);
+  const category =
+    tutorials.filter((tutorial) => tutorial.categoryId === categoryId) || {};
+  res.send(category);
 });
 
 app.listen(port, () => {
