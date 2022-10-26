@@ -1,0 +1,32 @@
+[
+  {
+    "tutorialId": 1,
+    "categoryId": 1,
+    "tutorialTitle": "The Basic Guide To Electric Car Maintenance For Beginners",
+    "tutorialDetails": "Maintaining and servicing electric powered motors is one of a kind from gasoline cars. It's additionally less difficult and extra value effective The foremost distinction between the upkeep of an electric powered automobile and a fuel automobile is that there is much less of it. Without an interior combustion engine, there are a ways fewer components in an EV to want restore or replacement.",
+    "tutorialThumbnail": "https://i.ibb.co/HVGTDzN/photo-1487754180451-c456f719a1fc.jpg",
+    "tutorialVideoURL": "https://www.youtube.com/watch?v=OzYUtDwCTKA",
+    "tutorialPrice": "Free",
+    "isActive": true
+  },
+  {
+    "tutorialId": 2,
+    "categoryId": 1,
+    "tutorialTitle": "Electric Cars And You: All You Need To Know",
+    "tutorialDetails": "Electric cars are on the rise, and for good reason. Not only do they produce zero emissions, but they also have many other benefits over traditional gasoline-powered vehicles. This article will cover all you need to know about electric cars, from the basics of their technology to some of the pros and cons of using them. So let's get started!",
+    "tutorialThumbnail": "https://i.ibb.co/4pcnyKK/photo-1625047509168-a7026f36de04.jpg",
+    "tutorialVideoURL": "https://www.youtube.com/watch?v=M05oLsNnngY",
+    "tutorialPrice": "Free",
+    "isActive": true
+  },
+  {
+    "tutorialId": 3,
+    "categoryId": 1,
+    "tutorialTitle": "Electric Car Battery And Motor Maintenance",
+    "tutorialDetails": "Electric cars are powered by electric motors (traction motors) and use electrical transmission systems. EVs can be powered by a variety of sources, including fuel cells, batteries, solar panels, electric generators, and off-vehicle sources. Let’s take a look at what it takes to maintain power sources such as batteries and other EV components. ",
+    "tutorialThumbnail": "https://i.ibb.co/GVBd3cf/photo-1597766325363-f5576d851d6a.jpg",
+    "tutorialVideoURL": "https://www.youtube.com/watch?v=XLBr5gq4jME",
+    "tutorialPrice": "Free",
+    "isActive": true
+  }
+]

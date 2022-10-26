@@ -1,0 +1,44 @@
+[
+  {
+    "categoryId": 1,
+    "categoryName": "Electric Car Repair",
+    "categoryDescription": "Learn how to repair electric car like a pro. beginner level to pro level tutorial is available",
+    "categoryImage": "https://i.ibb.co/ZNg9h6v/photo-1596731498067-99aeb581d3d7.jpg",
+    "isActive": true
+  },
+  {
+    "categoryId": 2,
+    "categoryName": "Old Car Repair",
+    "categoryDescription": "Want to learn old model car repair? then this is for you. beginner level to pro level tutorial is available",
+    "categoryImage": "https://i.ibb.co/5YyDXJQ/photo-1619642751034-765dfdf7c58e.jpg",
+    "isActive": true
+  },
+  {
+    "categoryId": 3,
+    "categoryName": "Bike Repair",
+    "categoryDescription": "Are you looking for bike repair tutorial? then, this is perfect for you. you can learn beginner level to pro level tutorial",
+    "categoryImage": "https://i.ibb.co/ZJGS2Qw/photo-1600920716019-2da25833765d.jpg",
+    "isActive": true
+  },
+  {
+    "categoryId": 4,
+    "categoryName": "Engine Repair",
+    "categoryDescription": "Want to learn engine repair? engine is the heart of a vehicle. if you want to learn all kinds of engine repair. then this is for you",
+    "categoryImage": "https://i.ibb.co/YhZgjYz/photo-1599256872237-5dcc0fbe9668.jpg",
+    "isActive": true
+  },
+  {
+    "categoryId": 5,
+    "categoryName": "Autobody Repair",
+    "categoryDescription": "Want to learn autobody repair? autobody is the one of the important thing of a vehicle. if you want to learn all kinds of autobody repair. then this is for you",
+    "categoryImage": "https://i.ibb.co/hMBDRpx/photo-1591278169757-deac26e49555.jpg",
+    "isActive": true
+  },
+  {
+    "categoryId": 6,
+    "categoryName": "Bike Modification",
+    "categoryDescription": "Want to modify bike and want to give a different look to bike?. then this is for you",
+    "categoryImage": "https://i.ibb.co/KjJSpks/photo-1599256630445-67b5772b1204.jpg",
+    "isActive": true
+  }
+]
