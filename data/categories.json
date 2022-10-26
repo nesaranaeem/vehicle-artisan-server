@@ -1,7 +1,7 @@
 [
   {
     "categoryId": 1,
-    "categoryName": "All Category",
+    "categoryName": "All Tutorial",
     "categoryDescription": "Read all tutorials from our site",
     "categoryImage": "https://i.ibb.co/ZNg9h6v/photo-1596731498067-99aeb581d3d7.jpg",
     "isActive": true

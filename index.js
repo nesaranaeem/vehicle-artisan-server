@@ -14,19 +14,29 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
-//get post by category id
+//get tutorial by category id
 app.get("/category/:categoryId", (req, res) => {
   const categoryId = parseInt(req.params.categoryId);
   const tutorial =
     tutorials.filter((tutorial) => tutorial.categoryId === categoryId) || {};
   if (categoryId === 1) {
-    //will get all post if category id is 1
+    //will get all tutorial if category id is 1
     res.send(tutorials);
   } else {
-    // if category id is not 1 then it will show post by query
+    // if category id is not 1 then it will show tutorial by query
     res.send(tutorial);
   }
 });
+//get full details by tutorialId
+app.get("/tutorial/:tutorialId", (req, res) => {
+  const tutorialId = parseInt(req.params.tutorialId);
+  const fullTutorial =
+    tutorials.find(
+      (singleTutorial) => singleTutorial.tutorialId === tutorialId
+    ) || {};
+  res.send(fullTutorial);
+});
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
