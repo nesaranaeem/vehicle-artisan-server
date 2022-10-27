@@ -1,0 +1,26 @@
+[
+  {
+    "blogId": 1,
+    "blogName": "What is cors?",
+    "blogDescription": "Cross-Origin Resource Sharing (CORS) is an HTTP-based security mechanism controlled and enforced by the client (web browser). It allows a service (API) to indicate any origin other than its own from which the client can request resources. It has been designed in response to the same-origin policy (SOP) that restricts how a website (HTML document or JS script) loaded by one origin can interact with a resource from another origin. CORS is used to explicitly allow some cross-origin requests while rejecting others.",
+    "isActive": true
+  },
+  {
+    "blogId": 2,
+    "blogName": "Why are you using firebase? What other options do you have to implement authentication?",
+    "blogDescription": "Fire base is provided by google. it have free plan it's secure and easy also user friendly that's why i used this. there are other option to implement authentication like, Auth0, Clerk, SuperTokens and so on.",
+    "isActive": true
+  },
+  {
+    "blogId": 3,
+    "blogName": "How does the private route work?",
+    "blogDescription": "Private Routes in React Router (also called Protected Routes) require a user being authorized to visit a route (read: page). So if a user is not authorized for a specific page, they cannot access it. private route component renders child components ( children ) if the user is logged in.",
+    "isActive": true
+  },
+  {
+    "blogId": 4,
+    "blogName": "What is Node? How does Node work?",
+    "blogDescription": "Node. js is an open-source, cross-platform JavaScript runtime environment and library for running web applications outside the client's browser. Ryan Dahl developed it in 2009. Node js takes a different approach. It runs a single-threaded event loop registered with the system to handle connections, and each new connection causes a JavaScript callback function to fire.",
+    "isActive": true
+  }
+]

@@ -3,6 +3,7 @@ const app = express();
 const cors = require("cors");
 const categories = require("./data/categories.json");
 const tutorials = require("./data/tutorials.json");
+const blog = require("./data/blog.json");
 const port = process.env.PORT || 5000;
 app.use(cors());
 
@@ -13,6 +14,10 @@ app.get("/", (req, res) => {
 //get the category list
 app.get("/categories", (req, res) => {
   res.send(categories);
+});
+//get blog list
+app.get("/blog", (req, res) => {
+  res.send(blog);
 });
 //get tutorial by category id
 app.get("/category/:categoryId", (req, res) => {

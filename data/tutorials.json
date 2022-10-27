@@ -2,10 +2,10 @@
   {
     "tutorialId": 1,
     "categoryId": 2,
-    "tutorialTitle": "The Basic Guide To Electric Car Maintenance For Beginners",
-    "tutorialDetails": "Maintaining and servicing electric powered motors is one of a kind from gasoline cars. It's additionally less difficult and extra value effective The foremost distinction between the upkeep of an electric powered automobile and a fuel automobile is that there is much less of it. Without an interior combustion engine, there are a ways fewer components in an EV to want restore or replacement.",
+    "tutorialTitle": "Electric Car Battery And Motor Maintenance- Guide",
+    "tutorialDetails": "If you are the proud owner of an electric vehicle (EV) or planning on buying one? If so, this guide would help you understand what it takes to keep EVs in excellent working order. You'll appreciate your cherished electric vehicle even more once you've mastered how to save money on maintenance.",
     "tutorialThumbnail": "https://i.ibb.co/HVGTDzN/photo-1487754180451-c456f719a1fc.jpg",
-    "tutorialVideoURL": "https://www.youtube.com/watch?v=OzYUtDwCTKA",
+    "tutorialVideoURL": "OzYUtDwCTKA",
     "tutorialPrice": "Free",
     "isActive": true
   },
@@ -13,20 +13,60 @@
     "tutorialId": 2,
     "categoryId": 2,
     "tutorialTitle": "Electric Cars And You: All You Need To Know",
-    "tutorialDetails": "Electric cars are on the rise, and for good reason. Not only do they produce zero emissions, but they also have many other benefits over traditional gasoline-powered vehicles. This article will cover all you need to know about electric cars, from the basics of their technology to some of the pros and cons of using them. So let's get started!",
+    "tutorialDetails": "This tutorial is for beginner. Electric cars are on the rise, and for good reason. Not only do they produce zero emissions, but they also have many other benefits over traditional gasoline-powered vehicles. This tutorial will cover all you need to know about electric cars, from the basics of their technology to some of the pros and cons of using them. So let's get started!",
     "tutorialThumbnail": "https://i.ibb.co/4pcnyKK/photo-1625047509168-a7026f36de04.jpg",
-    "tutorialVideoURL": "https://www.youtube.com/watch?v=M05oLsNnngY",
+    "tutorialVideoURL": "M05oLsNnngY",
     "tutorialPrice": "20 USD",
     "isActive": true
   },
   {
-    "tutorialId": 4,
+    "tutorialId": 3,
     "categoryId": 3,
     "tutorialTitle": "Restoration Of Old Car Floor Gearbox",
     "tutorialDetails": "If you are in the market for a new car, or if your old car needs some restoration work done on its floor gearbox, then you should definitely consider getting it serviced by a professional. A lot of things can go wrong with this crucial part of a car's engine, and not enough people know about it.",
-    "tutorialThumbnail": "https://i.ibb.co/rHs9yTC/photo-1599256872237-5dcc0fbe9668.jpg",
-    "tutorialVideoURL": "https://www.youtube.com/watch?v=IVX-mvKsDwg",
+    "tutorialThumbnail": "https://i.ibb.co/k6vRSjH/photo-1527383418406-f85a3b146499-ixlib-rb-4-0.jpg",
+    "tutorialVideoURL": "IVX-mvKsDwg",
     "tutorialPrice": "15 USD",
+    "isActive": true
+  },
+  {
+    "tutorialId": 4,
+    "categoryId": 4,
+    "tutorialTitle": "Motorbike Maintenance for Beginners",
+    "tutorialDetails": "Driving a motorcycle is thrilling but experienced owners recommend getting to know your bike to stay safe and save money. Taking care of it is important and performing little fixes by learning to recognize mechanical or electrical issues can help prevent major breakdowns. We examine useful and easy-to-follow methods to check, repair and replace engine components in this free mechanics course designed to keep you riding",
+    "tutorialThumbnail": "https://i.ibb.co/8gsf81q/photo-1558981806-ec527fa84c39-ixlib-rb-4-0.jpg",
+    "tutorialVideoURL": "tIXyo19LevI",
+    "tutorialPrice": "16 USD",
+    "isActive": true
+  },
+  {
+    "tutorialId": 5,
+    "categoryId": 5,
+    "tutorialTitle": "A Beginner's Guide to Engine Rebuilding",
+    "tutorialDetails": "At a certain time in your life, especially if you are a car guy or gal, you may find the need to rebuild an engine, and there are many reasons why you might discover this. You may want your engine to perform like, or better than, the day it rolled out from the factory or maybe you are just curious about what actually happens inside of an engine. Whatever your reasons are for tearing apart your engine you still might wonder how you should go about disassembling your engine. If you have never torn apart an engine before, or taken apart hundreds of engines, this is the guide for you. In this instructable, I will be covering my first ever engine rebuild and the steps I took to make my engine good as new. I hope that you find this instructable helpful and I hope that your engine rebuild goes well. Now let's get started tearing apart that engine.",
+    "tutorialThumbnail": "https://i.ibb.co/k6vRSjH/photo-1527383418406-f85a3b146499-ixlib-rb-4-0.jpg",
+    "tutorialVideoURL": "P3z8LmygdKs",
+    "tutorialPrice": "Free",
+    "isActive": true
+  },
+  {
+    "tutorialId": 6,
+    "categoryId": 6,
+    "tutorialTitle": "How to Remove a Windshield & Quarter Glass",
+    "tutorialDetails": "Sometimes it is best to R & R (remove and replace) glass for a repair. This article will demonstrate how to remove a windshield, quarter glass and instructions for other automative glass, whether you need to repair or replace it. One of the limitations of refinishing around glass openings is achieving a good masking of the weatherstripping without the tell-tale line of paint where the masking tape covers the weatherstrip. When doing a total restoration of an older car (such as a Ford Mustang), the only way to achieve a perfect paint job around the glass openings is to remove the glass.",
+    "tutorialThumbnail": "https://i.ibb.co/VTwNt89/photo-1600377232142-164c095e686e-ixlib-rb-4-0.jpg",
+    "tutorialVideoURL": "Lpn3tD2fmRg",
+    "tutorialPrice": "10 USD",
+    "isActive": true
+  },
+  {
+    "tutorialId": 7,
+    "categoryId": 7,
+    "tutorialTitle": "Your Guide for Best Bike Modification",
+    "tutorialDetails": "In this tutorial, you will learn about some of the greatest bike modification tips and techniques that you can use to modify your bike to your liking. A bike is a valuable possession, and riding a bike may be a hobby for everyone. Someone buys a bike only for the sake of self-satisfaction. Modifying a bike is surely a rewarding experience for everyone. If you're looking for some bike modification ideas, you've come to the perfect place. Continue reading this page to learn about some bike modification ideas and tricks. So don't spend any time reading this essay from beginning to end.",
+    "tutorialThumbnail": "https://i.ibb.co/bBv3mxF/photo-1486262715619-67b85e0b08d3-ixlib-rb-4-0.jpg",
+    "tutorialVideoURL": "xUTKZ3ObFBI",
+    "tutorialPrice": "Free",
     "isActive": true
   }
 ]
