@@ -11,7 +11,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   res.send("Server is running!");
 });
-//get the category list
+//get category list
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
