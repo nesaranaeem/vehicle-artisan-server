@@ -9,7 +9,7 @@ app.use(cors());
 
 //for index page
 app.get("/", (req, res) => {
-  res.send("Server seems OKAY!");
+  res.send("Server is running!");
 });
 //get the category list
 app.get("/categories", (req, res) => {
